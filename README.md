@@ -3,7 +3,7 @@
 Flowstate.DynamicBuilder facilitates the creation of builders for types heavily consumed in test scenarios.
 
 - [x] Reflection based approach.
-- [ ] Source generation based approach.
+- [ ] Source generation (AOT friendly) based approach.
 - [ ] Support for elaborate Models besides simpler DTOs.
 
 ## Usage
