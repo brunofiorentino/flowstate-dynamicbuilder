@@ -1,6 +1,6 @@
 # Flowstate.DynamicBuilder
 
-Flowstate.DynamicBuilder creates dynamic builders for conventioned, typed fluent interfaces. It's particulary useful in test libraries by helping to organize scenarios dependent on multiple DTO instances.
+Flowstate.DynamicBuilder facilitates the creation of builders for types heavily consumed in test scenarios.
 
 - [x] Reflection based approach.
 - [ ] Source generation based approach.
