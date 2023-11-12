@@ -4,8 +4,7 @@ Flowstate.DynamicBuilder creates dynamic builders for conventioned, typed fluent
 
 - [x] Reflection based approach.
 - [ ] Source generation based approach.
-- [ ] Support for elaborate models besides simpler DTOs.
-
+- [ ] Support for elaborate Models besides simpler DTOs.
 
 ## Usage
 
